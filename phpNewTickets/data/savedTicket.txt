@@ -1,0 +1,5 @@
+878532131, 4535443, Ponas Jonas, Vilnius, Oslo, 500, 20
+878532131, 4535443, Ponas Jonas, Vilnius, Oslo, 500, 20
+9841254454, -1, Ponas Lopas, Vilnius, Praha, 700, 50
+9841254454, -1, Ponas Lopas, Vilnius, Praha, 700, 50
+9841254454, -1, Ponas Lopas, Vilnius, Praha, 700, 50
